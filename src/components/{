@@ -1,0 +1,14 @@
+{
+    "name" : "jjong",
+    "age" : 20,
+    "car_list" : [
+        {
+            "name" : "Benz",
+            "car_number" : "11가 1234"
+        },
+        {
+            "name" : "Audi",
+            "car_number" : "22가 3456"
+        }
+    ]
+}
